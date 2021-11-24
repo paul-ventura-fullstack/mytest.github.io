@@ -1,3 +1,3 @@
 # mytest.github.io
-Test web
+Test web.
 This is only for testing puroposes
